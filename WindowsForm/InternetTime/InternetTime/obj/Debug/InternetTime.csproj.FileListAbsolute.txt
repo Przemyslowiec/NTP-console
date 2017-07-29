@@ -1,0 +1,9 @@
+D:\Programy\C#\InternetTime\InternetTime\bin\Debug\InternetTime.exe.config
+D:\Programy\C#\InternetTime\InternetTime\bin\Debug\InternetTime.exe
+D:\Programy\C#\InternetTime\InternetTime\bin\Debug\InternetTime.pdb
+D:\Programy\C#\InternetTime\InternetTime\obj\Debug\InternetTime.csprojResolveAssemblyReference.cache
+D:\Programy\C#\InternetTime\InternetTime\obj\Debug\InternetTime.Properties.Resources.resources
+D:\Programy\C#\InternetTime\InternetTime\obj\Debug\InternetTime.csproj.GenerateResource.Cache
+D:\Programy\C#\InternetTime\InternetTime\obj\Debug\InternetTime.exe
+D:\Programy\C#\InternetTime\InternetTime\obj\Debug\InternetTime.pdb
+D:\Programy\C#\InternetTime\InternetTime\obj\Debug\InternetTime.internet_time.resources
